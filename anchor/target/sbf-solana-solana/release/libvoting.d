@@ -1,0 +1,1 @@
+/Users/jashanpratapsingh/personal/Projects/Solana_blockchain_bootcamp/projects/Voting_Program/voting_dapp_template/anchor/target/sbf-solana-solana/release/libvoting.rlib: /Users/jashanpratapsingh/personal/Projects/Solana_blockchain_bootcamp/projects/Voting_Program/voting_dapp_template/anchor/programs/voting/src/lib.rs

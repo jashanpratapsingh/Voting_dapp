@@ -1,0 +1,10 @@
+/Users/jashanpratapsingh/personal/Projects/Solana_blockchain_bootcamp/projects/Voting_Program/voting_dapp_template/anchor/target/debug/deps/liblog-798c86e23a8fff22.rmeta: /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/jashanpratapsingh/personal/Projects/Solana_blockchain_bootcamp/projects/Voting_Program/voting_dapp_template/anchor/target/debug/deps/liblog-798c86e23a8fff22.rlib: /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/jashanpratapsingh/personal/Projects/Solana_blockchain_bootcamp/projects/Voting_Program/voting_dapp_template/anchor/target/debug/deps/log-798c86e23a8fff22.d: /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs:
+/Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs:
+/Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs:
+/Users/jashanpratapsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs:
